@@ -1,0 +1,27 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+        "rewardid":"ca-app-pub-3940256099942544/5224354917",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://play.google.com/store/apps/details?id=",
+        "interval": 1,
+        "pengaturan_iklan":"10",
+        "startappid":"123456789",
+        "version_app":1,
+ 
+        "api_yt":"AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+        "hpk":"asuransi, keuangan, pendidikan",
+        "webbase":"http://kokoholicapp.xyz/AnimeUpdate/",
+        "apikey":"cda11y63tfI7rwln8BLeiKTvjsD5g2Mox01RzkhQCEXSGWbqYO"
+      
+        }
+    ]
+}
