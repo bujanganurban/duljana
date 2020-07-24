@@ -1,0 +1,27 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "update",
+        "splash_image": "http://kokoholicapp.xyz/menhere.png",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_pindah": "https://play.google.com/store/apps/details?id=",       
+        "FanBanner": "2688848361385983_2688852321385587",
+        "FanNativeBanner": "2688848361385983_2689145161356303",
+        "FanInterstitial": "2688848361385983_2688872508050235",
+        "enable_startappsplash": "true",
+        "enable_applovin":"true",
+        "enable_applovin_banner":"false",
+        "unity_id":"14851",    
+        "if_fan_off":"false",   
+        "startappid":"123456789",
+        "ads1": "4",
+        "ads2":"8",     
+        "api_yt":"AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+        "hpk":"asuransi, keuangan, pendidikan",
+        "webbase":"http://kokoholicapp.xyz/AnimeUpdate/",
+        "apikey":"cda11y63tfI7rwln8BLeiKTvjsD5g2Mox01RzkhQCEXSGWbqYO"
+      
+        }
+    ]
+}
