@@ -2,7 +2,7 @@
     
     "Iklan": [
         {
-        "status": "ok",
+        "status": "update",
         "splash_image": "http://kokoholicapp.xyz/menhere.png",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "link_pindah": "https://play.google.com/store/apps/details?id=",       
